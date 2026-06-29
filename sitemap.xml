@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace https://vilanova-agency.example/ with the real deployment URL before production publishing. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://vilanova-agency.example/index.html</loc>
+  </url>
+  <url>
+    <loc>https://vilanova-agency.example/seo.html</loc>
+  </url>
+  <url>
+    <loc>https://vilanova-agency.example/sem.html</loc>
+  </url>
+  <url>
+    <loc>https://vilanova-agency.example/geo-aeo.html</loc>
+  </url>
+  <url>
+    <loc>https://vilanova-agency.example/desarrollo-web.html</loc>
+  </url>
+  <url>
+    <loc>https://vilanova-agency.example/ia-empresas.html</loc>
+  </url>
+  <url>
+    <loc>https://vilanova-agency.example/sobre-nosotros.html</loc>
+  </url>
+  <url>
+    <loc>https://vilanova-agency.example/contacto.html</loc>
+  </url>
+  <url>
+    <loc>https://vilanova-agency.example/aviso-legal.html</loc>
+  </url>
+  <url>
+    <loc>https://vilanova-agency.example/politica-privacidad.html</loc>
+  </url>
+  <url>
+    <loc>https://vilanova-agency.example/politica-cookies.html</loc>
+  </url>
+</urlset>
